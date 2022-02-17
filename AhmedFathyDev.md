@@ -17,8 +17,7 @@
         <p>
             <strong>
               I'M a B.com graduate who loves exploring the tech-field. New tech ideas and features makes me more excited than anything and that is how i ended up in Web development field. i'm also seeking my ways to enter into CyberSecurity.<br><br>
-               
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+
             </strong>
         </p>
         <ul>
